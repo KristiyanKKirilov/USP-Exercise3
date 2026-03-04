@@ -1,0 +1,7 @@
+public class Initial {
+    public void initialFunction()
+    {
+        int a = 3;
+    }
+
+}
